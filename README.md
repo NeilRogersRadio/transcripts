@@ -11,7 +11,7 @@ The Neil Rogers Show was a groundbreaking talk radio program that aired in South
 The repository is organized into two main folders:
 
 - **`timestamps/`** - Transcripts with timestamps showing when each line was spoken
-- **`without-timestamps/`** - Plain text transcripts without timing information
+- **`regular/`** - Plain text transcripts without timing information
 
 Each folder contains subfolders organized by year (e.g., `neil-rogers-show-1987`, `neil-rogers-show-1988`, etc.).
 
